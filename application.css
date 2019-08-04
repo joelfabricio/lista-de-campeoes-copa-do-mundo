@@ -1,0 +1,35 @@
+body {
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    font-family: Lato, sans-serif;
+    line-height: 1.5;
+    background-color: #47d674;
+    color: white;
+}
+
+main {
+    background: #b2b2b1e6;
+    padding: 8px 40px;
+    margin-top: 20px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.logo, .title, .sub-title {
+    text-align: center;
+    margin: 0;
+}
+
+.list {
+    margin: 30px 0;
+    text-align: center;
+    width: 100%;
+}
+
+.list table {
+    background: #454b54de;
+    border-radius: 7px;
+    padding: 15px;
+    margin: 0 auto;
+}
